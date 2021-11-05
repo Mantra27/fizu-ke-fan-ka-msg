@@ -1,6 +1,7 @@
 #include <iostream>
 #include "alt+f4.h"
 
-oyy ahiya avv
-    aek kaam kar bro
-        tane man fave tya sudhi tari fav line print karva mand
+Kya bolti public wese to Me bombay
+    Vishu Bhai ko milne
+        aayaa tha lekin vishu bhai mile nahi
+            issliye me ab kya karu
