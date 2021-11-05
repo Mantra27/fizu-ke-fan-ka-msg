@@ -1,20 +1,26 @@
-#define oyy using
-#define ahiya namespace
-#define avv std;
-#define aek int
-#define kaam main
-#define kar ()
-#define bro {
-#define tane while
-#define man (
-#define fave 1
-#define tya )
-#define sudhi {
-#define tari cout
-#define fav <<
-#define line "I hate cpp"
-#define print <<
-#define karva endl;
-#define mand \
+#include <iostream>
+#define Kya using
+#define bolti namespace
+#define public std;
+#define wese int
+#define to main
+#define Me ()
+#define bombay {
+#define Vishu while
+#define Bhai (
+#define ko 1
+#define milne )
+#define aayaa {
+#define tha cout
+#define lekin <<
+#define vishu "ghar nikal leta hun."
+#define bhai <<
+#define mile endl;
+#define nahi \
     }        \
     }
+#define issliye //
+#define me      //
+#define ab      //
+#define kya     //
+#define karu    //
